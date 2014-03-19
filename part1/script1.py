@@ -45,3 +45,4 @@ for i, doc in enumerate(documents):
   print "Translator(s): {}".format(translator)
   print "Illustrator(s): {}".format(illustrator)
   print "\n"
+
